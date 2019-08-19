@@ -7,3 +7,6 @@ My kind regard!
 
 I had a challenge to cd into the team lead's file on github but i finally found the way
 to do it, to be frank the commands on gitnub are fascinating. Team work is key. Femi. 
+
+Good job Femi. 
+practicing makes coding perfect!
