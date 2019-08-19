@@ -10,3 +10,6 @@ to do it, to be frank the commands on gitnub are fascinating. Team work is key. 
 
 Good job Femi. 
 practicing makes coding perfect!
+
+
+wow! is good to  learn git...
